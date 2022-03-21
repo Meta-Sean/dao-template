@@ -1,8 +1,8 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\contracts\\Box.sol": {
-      "lastModificationDate": 1646624855014,
+    "C:\\Users\\The Portal\\demos\\dao-template\\contracts\\Box.sol": {
+      "lastModificationDate": 1647440035439,
       "contentHash": "afac79783c9f744ab9ec9a0a3c907fe3",
       "sourceName": "contracts/Box.sol",
       "solcConfig": {
@@ -45,8 +45,8 @@
         "Box"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
-      "lastModificationDate": 1646780167459,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
+      "lastModificationDate": 1647541212593,
       "contentHash": "8398972af73b4e9e5ff3b31cad86234f",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
       "solcConfig": {
@@ -89,8 +89,8 @@
         "Ownable"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
-      "lastModificationDate": 1646780166775,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
+      "lastModificationDate": 1647541212209,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
@@ -131,8 +131,8 @@
         "Context"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\ERC20.sol": {
-      "lastModificationDate": 1646780166925,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\ERC20.sol": {
+      "lastModificationDate": 1647541212279,
       "contentHash": "bab063ddd80e9cc9e313361fef7ef07f",
       "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
       "solcConfig": {
@@ -177,8 +177,8 @@
         "ERC20"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\IERC20.sol": {
-      "lastModificationDate": 1646780167261,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\IERC20.sol": {
+      "lastModificationDate": 1647541212458,
       "contentHash": "a44d1a099633876550ad2476b21bafbe",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
@@ -219,8 +219,8 @@
         "IERC20"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\IERC20Metadata.sol": {
-      "lastModificationDate": 1646780167271,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\IERC20Metadata.sol": {
+      "lastModificationDate": 1647541212463,
       "contentHash": "909ab67fc5c25033fe6cd364f8c056f9",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
       "solcConfig": {
@@ -263,8 +263,8 @@
         "IERC20Metadata"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\draft-ERC20Permit.sol": {
-      "lastModificationDate": 1646780166806,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\draft-ERC20Permit.sol": {
+      "lastModificationDate": 1647541212223,
       "contentHash": "4e2473d86be8e737a3ba1c38f36a2aab",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol",
       "solcConfig": {
@@ -311,8 +311,8 @@
         "ERC20Permit"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\draft-IERC20Permit.sol": {
-      "lastModificationDate": 1646780166819,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\draft-IERC20Permit.sol": {
+      "lastModificationDate": 1647541212229,
       "contentHash": "fb77f144244b9ab12533aa6ce85ef8c5",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/draft-IERC20Permit.sol",
       "solcConfig": {
@@ -353,8 +353,8 @@
         "IERC20Permit"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\cryptography\\draft-EIP712.sol": {
-      "lastModificationDate": 1646780166800,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\cryptography\\draft-EIP712.sol": {
+      "lastModificationDate": 1647541212219,
       "contentHash": "161aae4dc1450371d0f324488f66a9cf",
       "sourceName": "@openzeppelin/contracts/utils/cryptography/draft-EIP712.sol",
       "solcConfig": {
@@ -397,8 +397,8 @@
         "EIP712"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\cryptography\\ECDSA.sol": {
-      "lastModificationDate": 1646780166826,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\cryptography\\ECDSA.sol": {
+      "lastModificationDate": 1647541212233,
       "contentHash": "482bcc512029ecf51ca4ae85cf4667c7",
       "sourceName": "@openzeppelin/contracts/utils/cryptography/ECDSA.sol",
       "solcConfig": {
@@ -441,8 +441,8 @@
         "ECDSA"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Counters.sol": {
-      "lastModificationDate": 1646780166781,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Counters.sol": {
+      "lastModificationDate": 1647541212211,
       "contentHash": "74654e3ae5d7f39555055dfe244dab7a",
       "sourceName": "@openzeppelin/contracts/utils/Counters.sol",
       "solcConfig": {
@@ -483,8 +483,8 @@
         "Counters"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Strings.sol": {
-      "lastModificationDate": 1646780167545,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Strings.sol": {
+      "lastModificationDate": 1647541212686,
       "contentHash": "9c54c6c065d9e590fdcdd72c451425b9",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
@@ -525,8 +525,8 @@
         "Strings"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\ERC20Votes.sol": {
-      "lastModificationDate": 1646780166977,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\token\\ERC20\\extensions\\ERC20Votes.sol": {
+      "lastModificationDate": 1647541212306,
       "contentHash": "d750921452f3bf2ab170f55cf4f5dc71",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol",
       "solcConfig": {
@@ -573,8 +573,8 @@
         "ERC20Votes"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\math\\Math.sol": {
-      "lastModificationDate": 1646780167429,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\math\\Math.sol": {
+      "lastModificationDate": 1647541212570,
       "contentHash": "339b9793dcbd7b5d55af725ef47de74c",
       "sourceName": "@openzeppelin/contracts/utils/math/Math.sol",
       "solcConfig": {
@@ -615,8 +615,8 @@
         "Math"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\utils\\IVotes.sol": {
-      "lastModificationDate": 1646780167424,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\utils\\IVotes.sol": {
+      "lastModificationDate": 1647541212566,
       "contentHash": "a036d40989f21d08bb990e68d0088fa1",
       "sourceName": "@openzeppelin/contracts/governance/utils/IVotes.sol",
       "solcConfig": {
@@ -657,8 +657,8 @@
         "IVotes"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\math\\SafeCast.sol": {
-      "lastModificationDate": 1646780167507,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\math\\SafeCast.sol": {
+      "lastModificationDate": 1647541212643,
       "contentHash": "cd91252bfcbee6eaba8f5144f504583c",
       "sourceName": "@openzeppelin/contracts/utils/math/SafeCast.sol",
       "solcConfig": {
@@ -699,52 +699,8 @@
         "SafeCast"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\contracts\\GovernanceToken.sol": {
-      "lastModificationDate": 1646605848677,
-      "contentHash": "f43f4417b8664ffef4b07d628a8a4ad2",
-      "sourceName": "contracts/GovernanceToken.sol",
-      "solcConfig": {
-        "version": "0.8.8",
-        "settings": {
-          "optimizer": {
-            "enabled": false,
-            "runs": 200
-          },
-          "outputSelection": {
-            "*": {
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata",
-                "devdoc",
-                "userdoc",
-                "storageLayout",
-                "evm.gasEstimates"
-              ],
-              "": [
-                "ast"
-              ]
-            }
-          },
-          "metadata": {
-            "useLiteralContent": true
-          }
-        }
-      },
-      "imports": [
-        "@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol"
-      ],
-      "versionPragmas": [
-        "^0.8.8"
-      ],
-      "artifacts": [
-        "GovernanceToken"
-      ]
-    },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\Governor.sol": {
-      "lastModificationDate": 1646780167080,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\Governor.sol": {
+      "lastModificationDate": 1647541212357,
       "contentHash": "28514954183285e570ab4889d2dbfe54",
       "sourceName": "@openzeppelin/contracts/governance/Governor.sol",
       "solcConfig": {
@@ -794,8 +750,8 @@
         "Governor"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\ERC165.sol": {
-      "lastModificationDate": 1646780166885,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\ERC165.sol": {
+      "lastModificationDate": 1647541212260,
       "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
       "solcConfig": {
@@ -838,8 +794,8 @@
         "ERC165"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Address.sol": {
-      "lastModificationDate": 1646780166729,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Address.sol": {
+      "lastModificationDate": 1647541212185,
       "contentHash": "ad714a6368ee7d43cded6bbe8af0b155",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
       "solcConfig": {
@@ -880,8 +836,8 @@
         "Address"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Timers.sol": {
-      "lastModificationDate": 1646780167559,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\Timers.sol": {
+      "lastModificationDate": 1647541212696,
       "contentHash": "ae135102abee8b2fc88eed09a40cdb4c",
       "sourceName": "@openzeppelin/contracts/utils/Timers.sol",
       "solcConfig": {
@@ -922,8 +878,8 @@
         "Timers"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\IGovernor.sol": {
-      "lastModificationDate": 1646780167398,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\IGovernor.sol": {
+      "lastModificationDate": 1647541212546,
       "contentHash": "1a5be50c2b8436df5ec78772626c13e9",
       "sourceName": "@openzeppelin/contracts/governance/IGovernor.sol",
       "solcConfig": {
@@ -966,8 +922,8 @@
         "IGovernor"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\IERC165.sol": {
-      "lastModificationDate": 1646780167224,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\IERC165.sol": {
+      "lastModificationDate": 1647541212438,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
@@ -1008,8 +964,8 @@
         "IERC165"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorTimelockControl.sol": {
-      "lastModificationDate": 1646780167120,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorTimelockControl.sol": {
+      "lastModificationDate": 1647541212391,
       "contentHash": "cb4dc50e128ed332c48a1c7d06b4e879",
       "sourceName": "@openzeppelin/contracts/governance/extensions/GovernorTimelockControl.sol",
       "solcConfig": {
@@ -1054,8 +1010,8 @@
         "GovernorTimelockControl"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\IGovernorTimelock.sol": {
-      "lastModificationDate": 1646780167408,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\IGovernorTimelock.sol": {
+      "lastModificationDate": 1647541212558,
       "contentHash": "eebb17e144c4fd58549d815db19552da",
       "sourceName": "@openzeppelin/contracts/governance/extensions/IGovernorTimelock.sol",
       "solcConfig": {
@@ -1098,8 +1054,8 @@
         "IGovernorTimelock"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\TimelockController.sol": {
-      "lastModificationDate": 1646780167550,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\TimelockController.sol": {
+      "lastModificationDate": 1647541212692,
       "contentHash": "59f5eb55cde7d6d3ae62c45480aff256",
       "sourceName": "@openzeppelin/contracts/governance/TimelockController.sol",
       "solcConfig": {
@@ -1142,8 +1098,8 @@
         "TimelockController"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\access\\AccessControl.sol": {
-      "lastModificationDate": 1646780166715,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\access\\AccessControl.sol": {
+      "lastModificationDate": 1647541212181,
       "contentHash": "76cae8e1eb9c27e818b0b08e1527f731",
       "sourceName": "@openzeppelin/contracts/access/AccessControl.sol",
       "solcConfig": {
@@ -1189,8 +1145,8 @@
         "AccessControl"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\access\\IAccessControl.sol": {
-      "lastModificationDate": 1646780167151,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\access\\IAccessControl.sol": {
+      "lastModificationDate": 1647541212399,
       "contentHash": "57c84298234411cea19c7c284d86be8b",
       "sourceName": "@openzeppelin/contracts/access/IAccessControl.sol",
       "solcConfig": {
@@ -1231,8 +1187,8 @@
         "IAccessControl"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\contracts\\governance_standard\\TimeLock.sol": {
-      "lastModificationDate": 1646696951246,
+    "C:\\Users\\The Portal\\demos\\dao-template\\contracts\\governance_standard\\TimeLock.sol": {
+      "lastModificationDate": 1647440035441,
       "contentHash": "fca9f974fb9d507d20ceaa452dcca503",
       "sourceName": "contracts/governance_standard/TimeLock.sol",
       "solcConfig": {
@@ -1275,8 +1231,8 @@
         "TimeLock"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\contracts\\governance_standard\\GovernorContract.sol": {
-      "lastModificationDate": 1646696740683,
+    "C:\\Users\\The Portal\\demos\\dao-template\\contracts\\governance_standard\\GovernorContract.sol": {
+      "lastModificationDate": 1647440035441,
       "contentHash": "d05e379a430daefbb6517505c2c08946",
       "sourceName": "contracts/governance_standard/GovernorContract.sol",
       "solcConfig": {
@@ -1324,8 +1280,8 @@
         "GovernorContract"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorSettings.sol": {
-      "lastModificationDate": 1646780167110,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorSettings.sol": {
+      "lastModificationDate": 1647541212385,
       "contentHash": "2c6e87fa9b63c7ef8579eb4ae937d4c2",
       "sourceName": "@openzeppelin/contracts/governance/extensions/GovernorSettings.sol",
       "solcConfig": {
@@ -1368,8 +1324,8 @@
         "GovernorSettings"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorCountingSimple.sol": {
-      "lastModificationDate": 1646780167091,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorCountingSimple.sol": {
+      "lastModificationDate": 1647541212361,
       "contentHash": "ea8f93bb65eeed458767a28c233ed3ac",
       "sourceName": "@openzeppelin/contracts/governance/extensions/GovernorCountingSimple.sol",
       "solcConfig": {
@@ -1412,8 +1368,8 @@
         "GovernorCountingSimple"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorVotes.sol": {
-      "lastModificationDate": 1646780167125,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorVotes.sol": {
+      "lastModificationDate": 1647541212393,
       "contentHash": "232d8cac97c441c8c177aaeeccc94481",
       "sourceName": "@openzeppelin/contracts/governance/extensions/GovernorVotes.sol",
       "solcConfig": {
@@ -1457,8 +1413,8 @@
         "GovernorVotes"
       ]
     },
-    "C:\\Users\\seanh\\Desktop\\Crypto Programing\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorVotesQuorumFraction.sol": {
-      "lastModificationDate": 1646780167140,
+    "C:\\Users\\The Portal\\demos\\dao-template\\node_modules\\@openzeppelin\\contracts\\governance\\extensions\\GovernorVotesQuorumFraction.sol": {
+      "lastModificationDate": 1647541212397,
       "contentHash": "b346cb21204465106e3d5ea7b6264ee9",
       "sourceName": "@openzeppelin/contracts/governance/extensions/GovernorVotesQuorumFraction.sol",
       "solcConfig": {
@@ -1499,6 +1455,50 @@
       ],
       "artifacts": [
         "GovernorVotesQuorumFraction"
+      ]
+    },
+    "C:\\Users\\The Portal\\demos\\dao-template\\contracts\\GovernanceToken.sol": {
+      "lastModificationDate": 1647440035440,
+      "contentHash": "f43f4417b8664ffef4b07d628a8a4ad2",
+      "sourceName": "contracts/GovernanceToken.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata",
+                "devdoc",
+                "userdoc",
+                "storageLayout",
+                "evm.gasEstimates"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "metadata": {
+            "useLiteralContent": true
+          }
+        }
+      },
+      "imports": [
+        "@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol"
+      ],
+      "versionPragmas": [
+        "^0.8.8"
+      ],
+      "artifacts": [
+        "GovernanceToken"
       ]
     }
   }
